@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Raquel   ;)</h2>
+<h2 align="center">Hi, I'm Raquel García Hortal  ;)</h2>
 
 ### About me
 - 🎓 Software Engineering student from Seville  
